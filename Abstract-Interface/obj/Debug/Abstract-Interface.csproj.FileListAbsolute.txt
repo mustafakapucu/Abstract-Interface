@@ -1,0 +1,6 @@
+c:\users\mustafa.kapucu\documents\visual studio 2015\Projects\Abstract-Interface\Abstract-Interface\bin\Debug\Abstract-Interface.exe.config
+c:\users\mustafa.kapucu\documents\visual studio 2015\Projects\Abstract-Interface\Abstract-Interface\bin\Debug\Abstract-Interface.exe
+c:\users\mustafa.kapucu\documents\visual studio 2015\Projects\Abstract-Interface\Abstract-Interface\bin\Debug\Abstract-Interface.pdb
+c:\users\mustafa.kapucu\documents\visual studio 2015\Projects\Abstract-Interface\Abstract-Interface\obj\Debug\Abstract-Interface.csprojResolveAssemblyReference.cache
+c:\users\mustafa.kapucu\documents\visual studio 2015\Projects\Abstract-Interface\Abstract-Interface\obj\Debug\Abstract-Interface.exe
+c:\users\mustafa.kapucu\documents\visual studio 2015\Projects\Abstract-Interface\Abstract-Interface\obj\Debug\Abstract-Interface.pdb
